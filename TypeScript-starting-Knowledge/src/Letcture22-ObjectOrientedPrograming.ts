@@ -9,6 +9,7 @@ class StudentInfo{
         this.age =age;
         this.hobbies = hobbies
     }
+    
 }
 
 const person123:StudentInfo = new StudentInfo("Shashawt",19,["reading","coding"])
