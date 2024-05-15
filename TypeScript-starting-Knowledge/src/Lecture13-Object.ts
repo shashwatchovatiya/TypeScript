@@ -3,7 +3,12 @@
 
 // Creating Object for Personal details 
 
-const Person :{name: string;isStudent : boolean;age:number;address :{city:string,country :string}}= {
+const Person :{
+    name: string;
+    isStudent : boolean;
+    age:number;
+    address :{city:string,country :string}
+    }={
     name :"Shashwat",
     isStudent : true,
     age : 19,
